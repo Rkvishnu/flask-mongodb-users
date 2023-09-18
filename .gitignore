@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Python cache files
+__pycache__/
+
+# IDE-specific directories
+.idea/
+.vscode/
+
+# Local development configuration
+config.py
+
+ 
+
+# Environment variables file (if used)
+.env
+
+# Python package distribution directories
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
